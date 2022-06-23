@@ -233,8 +233,7 @@ body {
    
 }
 
-.header{
-    width:1200px;  
+.header{ 
     border-bottom: 1px solid;
     align-items: center;
     flex-direction: row;
@@ -292,7 +291,7 @@ li {
 }
 .bg {
     background-image:
-     url("/images/img.jpg");
+     url("../images/img.jpg");
      background-repeat: no-repeat;
      background-size: auto;
     
